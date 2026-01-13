@@ -1,0 +1,15 @@
+# ユーザーデータ（個人情報）
+*.csv
+*.json
+*.xml
+
+# ログ・レポート・バックアップ
+*.log
+*.html
+backup/
+
+# Windows/VSCodeの一時ファイル
+.vscode/
+*.tmp
+Desktop.ini
+Thumbs.db
