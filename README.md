@@ -3,8 +3,13 @@
 **管理者権限不要！** PowerShellだけで動く、高機能タスク管理ツール。
 インストール不要、レジストリ汚染なし。USBメモリや共有フォルダに置くだけで、どこでも「個人の業務効率化」環境が手に入ります。
 
-![Demo](https://via.placeholder.com/800x400.png?text=Put+Screenshot+Here)
-*(ここにツールのメイン画面や、動いている様子のGIFを貼ってください)*
+<img width="1266" height="1017" alt="image" src="https://github.com/user-attachments/assets/32a094ff-5a93-4fa8-b196-26d2112a6421" />
+<img width="1266" height="1017" alt="image" src="https://github.com/user-attachments/assets/2c7b0c52-dc28-4d40-a033-ec78f9fa0606" />
+<img width="1266" height="1017" alt="image" src="https://github.com/user-attachments/assets/29bb39e5-5371-4d41-909c-33d4b6dd356d" />
+<img width="1261" height="1012" alt="image" src="https://github.com/user-attachments/assets/cfab604a-d55d-4a50-b0fb-10fab8100840" />
+
+
+
 
 ## 💡 特徴 (Features)
 
